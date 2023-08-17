@@ -1,0 +1,11 @@
+20230714	15:27:37	7b96d120-7db5-403a-9611-bd12bd1e8399	Error : Not allowed by CORS
+20230715	16:46:25	999cb513-14c9-4ee7-8884-e115309c669b	Error : ENOENT: no such file or directory, stat 'E:\Ramar\NodeJS\Beginner\tut06\views\root\index.html'
+20230715	18:48:53	bc57102e-e0e6-4a59-b77d-b18d1c4e85ce	TypeError : filterArray is not iterable
+20230715	18:53:59	cfbeb765-d134-4eaf-b48c-ee3431996962	TypeError : Cannot read properties of undefined (reading 'id')
+20230715	18:54:07	a48d764f-8ada-46cd-824e-fe19eb023f31	TypeError : Cannot read properties of undefined (reading 'id')
+20230715	18:55:18	a16e6f0c-0652-442a-943f-d4229ba999de	TypeError : Cannot read properties of undefined (reading 'id')
+20230715	18:57:24	a70fc664-9bd9-49b0-838d-4faa41eea05b	TypeError : filterArray is not iterable
+20230715	19:10:47	d0809f35-83ed-4a0b-8c4f-75c63163c615	TypeError : Cannot read properties of undefined (reading 'id')
+20230815	16:31:23	2f286feb-5ea2-463c-b43f-1b1b1c8bcfb5	TypeError : Cannot read properties of undefined (reading 'username')
+20230815	16:35:21	e99f3a59-441a-4efc-a44e-e865abcf289f	TypeError : Cannot read properties of undefined (reading 'username')
+20230817	21:15:43	a527a11b-cb7d-4537-af42-e108cda4afa8	SyntaxError : Unexpected token d in JSON at position 17
